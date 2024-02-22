@@ -1,9 +1,11 @@
 // eslint-disable-next-line react/prop-types
 const AppContainer = ({ children }) => {
     return (
-        <section className="w-screen h-screen bg-gray-900 p-48 flex justify-center items-center flex-col">
-            { children }
-        </section>
+        <main className="bg-login-screen bg-cover bg-center">
+            <section className="backdrop-blur-sm bg-black/65 w-screen h-screen text-center p-48 flex justify-center items-center flex-col">
+                { children }
+            </section>
+        </main>
     )
 }
 

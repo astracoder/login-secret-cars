@@ -35,26 +35,26 @@ const Login = () => {
                 <h1 className="text-blue-200 text-4xl font-semibold mb-12">O melhor jogo de palavras</h1>
                 <h3 className="text-white/80 text-2xl font-light mb-5">Já tem <Link to="/register"><span className="underline cursor-pointer hover:text-blue-200">cadastro</span></Link>? Faça o seu login!</h3>
             </div>
-            <form className="w-full h-full bg-gray-800 rounded-lg p-10">
+            <form className="w-92 h-full bg-white/10 rounded-lg p-10">
                 <div className="flex justify-center items-left flex-col mb-5">
                     <label 
-                        className="text-white text-2xl font-normal mb-2" htmlFor="email">E-mail: </label>
+                        className="text-white text-2xl font-normal mb-2 text-left" htmlFor="email">E-mail: </label>
                     <input 
                         className="w-full h-12 pl-5 pr-5 rounded-md text-xl text-gray-600 font-semibold"
                         type="email"
                         name="email" 
-                        placeholder="Seu melhor e-mail..."
+                        placeholder="Coloque seu e-mail"
                         onChange={handleChange}
                         required
                     />
                 </div>
                 <div className="flex justify-center items-left flex-col mb-5">
-                    <label className="text-white text-2xl font-normal mb-2" htmlFor="password">Senha: </label>
+                    <label className="text-white text-2xl font-normal mb-2 text-left" htmlFor="password">Senha: </label>
                     <input 
                         className="w-full h-12 pl-5 pr-5 rounded-md text-xl text-gray-600 font-semibold"
                         type="password"
                         name="password"
-                        placeholder="Sua melhor senha..."
+                        placeholder="Coloque sua senha"
                         onChange={handleChange}
                         required
                     />
