@@ -1,8 +1,14 @@
-# React + Vite
+<h1 align="center">Login Secret Cars</h1>
+<p align="center">Developed - <b>@astracoder (Drazic)</b></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
+  <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />        
+</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>
+  The main idea would be to create a login/registration screen to enter the word game that I had created previously, it won't involve banking per hour, but later on as I progress I will try to do it.
+</p>
