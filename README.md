@@ -12,3 +12,5 @@
 <p>
   The main idea would be to create a login/registration screen to enter the word game that I had created previously, it won't involve banking per hour, but later on as I progress I will try to do it.
 </p>
+
+<img src="/wallpaper.png">
